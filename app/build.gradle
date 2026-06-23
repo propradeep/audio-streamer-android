@@ -3,6 +3,7 @@ plugins {
 }
 
 android {
+    namespace "com.audiostreamer"
     compileSdk 34
     defaultConfig {
         applicationId "com.audiostreamer"
